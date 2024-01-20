@@ -1,0 +1,1 @@
+This is a pokemon cards game. In which winner is decided based on the higher power. I Used an API to get the data from the desired pokemon cards and then evaluated the winner through its card. I used asynchronous javascript to did it 
